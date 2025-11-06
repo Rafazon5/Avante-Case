@@ -41,3 +41,20 @@ Como usar
 
     Acompanhe os valores dos sensores pelo Monitor Serial para calibração ou depuração.
 
+
+### Imagens do Projeto
+
+
+ ![Montagem Interna](Projeto/img/foto.jpeg)
+
+*Sistema conectado ao computador e lâmpada.*
+
+![Sistema Conectado](Projeto/img/foto1.jpeg)
+
+*Visão superior do sistema com a lâmpada.*
+
+![Visão Superior](Projeto/img/foto2.jpeg)
+
+*Montagem interna do sistema com Arduino e protoboard.*
+
+
